@@ -1,5 +1,5 @@
-ModIDS = {
+ModCheck = {
     [2681346262] = true,
 }
 
-return ModIDS
+return ModCheck
