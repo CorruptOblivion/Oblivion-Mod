@@ -34,4 +34,4 @@ function Identify()
 	end
 	end
 local success,err = pcall(Identify)
-return ModIDS
+return ModCheck
