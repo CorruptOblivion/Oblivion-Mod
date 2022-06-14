@@ -3,7 +3,7 @@ ModCheck = {
 }
 
 Owner = {
-	1,
+	1894690748,
 }
 
 --\\ Don't mess with anything below this
