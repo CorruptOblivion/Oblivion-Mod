@@ -1,4 +1,4 @@
-ModIDS = {
+ModCheck = {
 	2681346262,
 }
 
