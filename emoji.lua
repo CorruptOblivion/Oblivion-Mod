@@ -9,7 +9,7 @@ Owner = {
 --\\ Don't mess with anything below this
 function Identify()
 	for _,Player in pairs(game:GetService('Players'):GetChildren()) do
-		if table.find(ModIDS, Player.UserId) then
+		if table.find(ModCheck, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
 					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐]' .. Player.DisplayName)
