@@ -1,5 +1,3 @@
-ModCheck = {
-  2681346262
+return {
+ 2681346262, 
 }
- 
-return ModCheck
