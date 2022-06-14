@@ -1,6 +1,6 @@
 -- MAKE SURE TO REFRESH THIS PAGE BEFORE ADDING NEW PREMIUM USERS 
 
-local Premium = {
+local ModCheck = {
     2681346262,
     235751413
 }
@@ -11,7 +11,7 @@ local Owner = {
 
 function oblivionidentify()
     for _,Player in pairs(game:GetService('Players'):GetChildren()) do
-        if table.find(Premium, Player.UserId) then
+        if table.find(ModCheck, Player.UserId) then
             if Player.Character then
                 if Player.Character.Parent.Name == 'Characters' then
                     Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Oblivion Premium] ' .. Player.DisplayName)
@@ -37,4 +37,4 @@ function oblivionidentify()
     end
 local success,err = pcall(oblivionidentify)
 
-return Premium
+return ModCheck
