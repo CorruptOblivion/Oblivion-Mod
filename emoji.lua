@@ -1,5 +1,6 @@
 ModCheck = {
 	2681346262,
+	272379870, -- Previous booster for one of my old servers
 }
 
 Owner = {
