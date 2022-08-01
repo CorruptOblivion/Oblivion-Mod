@@ -5,7 +5,7 @@ ModCheck = {
 
 Owner = {
 	1894690748,
-	2345557319,
+	6256083,
 }
 
 --\\ Don't mess with anything below this
