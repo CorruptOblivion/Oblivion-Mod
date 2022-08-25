@@ -3,16 +3,16 @@ ModCheck = {
 	272379870, -- Previous booster for one of my old servers
 }
 
+ServerBooster = {
+	108961570, -- 750625429291008031 | fatal#1000	
+}
+
+
 Owner = {
 	1894690748,
 	6256083,
 	583160229,
 }
-
-ServerBooster = {
-	108961570, -- 750625429291008031 | fatal#1000	
-}
-
 --\\ Don't mess with anything below this
 function Identify()
 	for _,Player in pairs(game:GetService('Players'):GetChildren()) do
@@ -23,6 +23,13 @@ function Identify()
 				end
 			end
 		elseif
+			table.find(ServerBooster, Player.UserId) then
+			if Player.Character then
+				if Player.Character.Parent.Name == 'Characters' then
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎]' .. Player.DisplayName)
+				end
+			end
+			elseif
 			table.find(Owner, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
