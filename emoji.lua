@@ -9,6 +9,10 @@ Owner = {
 	583160229,
 }
 
+ServerBooster = {
+	108961570, -- 750625429291008031 | fatal#1000	
+}
+
 --\\ Don't mess with anything below this
 function Identify()
 	for _,Player in pairs(game:GetService('Players'):GetChildren()) do
