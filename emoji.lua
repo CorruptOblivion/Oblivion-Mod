@@ -22,28 +22,28 @@ function Identify()
 		if table.find(ModCheck, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Oblivion Premium ⭐]' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Oblivion Premium ⭐] ' .. Player.DisplayName)
 				end
 			end
 		elseif
 			table.find(ServerBooster, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎]' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎] ' .. Player.DisplayName)
 				end
 			end
 			elseif
 			table.find(Owner, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Oblivion Owner]' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Oblivion Owner] ' .. Player.DisplayName)
 				end
 			end
 		if
 			Player.Character then
 			if Player.Character.Parent.Name == 'Characters' then
 				if not Player.Character.RightUpperLeg:FindFirstChild('OriginalSize') then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌌]' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌌] ' .. Player.DisplayName)
 				end
 			end
 		end
