@@ -48,10 +48,10 @@ function Identify()
 					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🤩 Oblivion Owner 🤩] ' .. Player.DisplayName)
 				end
 			end
-		if
-			Player.Character then
+		elseif not Player.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
+		    if Player.Character then
 			if Player.Character.Parent.Name == 'Characters' then
-				if not Player.Character.RightUpperLeg:FindFirstChild('OriginalSize') then
+				if not Player.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
 					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌌] ' .. Player.DisplayName)
 				end
 			end
