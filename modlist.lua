@@ -1,6 +1,6 @@
 -- [ Table ] --
 local whitelisted = {
-   [1] = true,
+   2403846811,
 }
 
 -- [ Return ] --
