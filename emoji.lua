@@ -4,6 +4,10 @@ ModCheck = {
 	488252378, -- 774468955280506880 | Junkrat#6474
 }
 
+MetCorruptOblivion = {
+	2967538258,		
+}
+
 ServerBooster = {
 	920197256, -- 1008001829650575442 | Cropster#4004
 	3135736689, -- 1008001829650575442 | Cropster#4004
@@ -49,6 +53,13 @@ function Identify()
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
 					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🤩 Oblivion Owner 🤩] ' .. Player.DisplayName)
+				end
+			end
+			elseif
+			table.find(MetCorruptOblivion, Player.UserId) then
+			if Player.Character then
+				if Player.Character.Parent.Name == 'Characters' then
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🍆] ' .. Player.DisplayName)
 				end
 			end
 		elseif not Player.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
