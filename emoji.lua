@@ -5,7 +5,9 @@ ModCheck = {
 }
 
 MetCorruptOblivion = {
-	2967538258,		
+	2967538258,
+	209852474,
+	591572729,
 }
 
 ServerBooster = {
