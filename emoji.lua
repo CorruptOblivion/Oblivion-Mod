@@ -38,7 +38,7 @@ function Identify()
 		if table.find(ModCheck, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Characters' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Oblivion Premium ⭐] ' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('⭐] ' .. Player.DisplayName)
 				end
 			end
 		elseif
