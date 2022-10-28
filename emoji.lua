@@ -1,3 +1,4 @@
+--[[
 ModCheck = {
 	2681346262,
 	272379870, -- Previous booster for one of my old servers
@@ -80,3 +81,4 @@ function Identify()
 	end
 local success,err = pcall(Identify)
 return ModCheck
+]]
