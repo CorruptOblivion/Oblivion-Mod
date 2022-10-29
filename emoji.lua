@@ -11,8 +11,8 @@ local Owner = {
 }
 
 local Moderator = {
-    313920450,
-    2681346262,
+    313920450, -- [ 840709064798896139 | cool guy#4746 ]
+    2681346262, -- [ 419351426024603649 | WRLD P1NK#4217 ]
 }
 
 local Premium = {
@@ -24,7 +24,7 @@ local Cool = {
 }
 
 local Booster = {
-    1888263206,
+    1888263206, -- [ 575634790938705922 | 1309#7777 ]
 }
 
 local ContentCreator = {
