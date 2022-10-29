@@ -32,7 +32,9 @@ local ContentCreator = {
 }
 
 local RTXClan = {
-
+    2345557319,
+    1681928039,
+    3823436758,
 }
 
 local MetCorruptOblivion = {
