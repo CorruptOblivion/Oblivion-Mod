@@ -20,7 +20,7 @@ local Premium = {
 }
 
 local Cool = {
-
+    8643361, -- [ 911783586116546561 | 1685#5441 ]
 }
 
 local Booster = {
