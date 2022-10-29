@@ -12,6 +12,7 @@ local Owner = {
 
 local Moderator = {
     313920450,
+    2681346262,
 }
 
 local Premium = {
