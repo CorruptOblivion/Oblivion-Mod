@@ -79,7 +79,7 @@ local Indentify = function()
         elseif table.find(MetCorruptOblivion, v.UserId) then
             giveEmoji(v.Name, 'Met CorruptOblivion')
         else
-            if not v.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
+            if v:FindFirstChild('HumanoidRootPart') and not v.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
                giveEmoji(v.Name, '🌌') 
             end
         end
