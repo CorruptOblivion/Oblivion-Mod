@@ -35,6 +35,7 @@ local RTXClan = {
     2345557319,
     1681928039,
     3823436758,
+    488252378, -- [ country boy#6474 | 774468955280506880 ]
 }
 
 local MetCorruptOblivion = {
