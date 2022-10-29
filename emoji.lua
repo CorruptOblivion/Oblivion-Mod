@@ -1,4 +1,3 @@
---h
 --[[
 
 COPYRIGHT CorruptOblivion#7914
