@@ -7,6 +7,4 @@ local Whitelisted = {
   2538188625,
 } 
 
-task.spawn(function() return Whitelisted end)
-
-return OwnerPowers
+return Whitelisted
