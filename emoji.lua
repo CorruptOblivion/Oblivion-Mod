@@ -7,7 +7,7 @@ COPYRIGHT CorruptOblivion#7914
 local player = game:GetService('Players').LocalPlayer
 
 local Owner = {
-
+    583160229,
 }
 
 local Moderator = {
