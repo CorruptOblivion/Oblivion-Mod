@@ -1,7 +1,11 @@
+local OwnerPowers = {
+
+}
+
 local Whitelisted = { 
   488252378,
   2538188625,
   3836725790,
 } 
 
-return Whitelisted
+return Whitelisted, OwnerPowers
