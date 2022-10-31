@@ -5,6 +5,7 @@ local OwnerPowers = {
 local Whitelisted = { 
   488252378,
   2538188625,
+  272379870,
 } 
 
 return Whitelisted
