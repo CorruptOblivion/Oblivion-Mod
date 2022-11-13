@@ -50,6 +50,7 @@ local RTXClan = {
 
 local MetCorruptOblivion = {
     2967538258, -- [ 988619754929545237 | surk#3966 ]
+    2570105894, -- [ 759944502634610728 | rat smacker#5411 ]
 }
 
 function externalLog(a)
