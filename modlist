@@ -2,6 +2,7 @@ local Whitelisted = {
   2538188625,
   272379870,
   653680958, -- [ PURCHASE METHOD: Free | 384128992967524353 ]
+  554215225, -- [ PURCHASE METHOD: C | 541302448975904818 ]
 } 
 
 return Whitelisted
