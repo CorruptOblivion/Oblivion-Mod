@@ -19,6 +19,7 @@ local Moderator = {
 
 local Premium = {
     554215225, -- [ PAYMENT METHOD: C | 541302448975904818 ]
+    2553472990, -- [ PURCHASE METHOD: R | 919778893928476692 ]
 }
 
 local Cool = {
