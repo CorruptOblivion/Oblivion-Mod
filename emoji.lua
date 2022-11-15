@@ -18,7 +18,7 @@ local Moderator = {
 }
 
 local Premium = {
-
+    554215225, -- [ PAYMENT METHOD: C | 541302448975904818 ]
 }
 
 local Cool = {
