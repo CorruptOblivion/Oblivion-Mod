@@ -28,6 +28,7 @@ local Premium = {
     3298207461, -- [ PURCHASE METHOD: R (beat the system hub) | 1004810767507407020 ]
     5526175, -- [ PURCHASE METHOD: Free | 575634790938705922 ]
     3449769878, -- [ PURCHASE METHOD: R | 731770993194041375 ]
+    1911962771, -- Corrupt
 }
 
 local Cool = {
