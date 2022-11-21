@@ -30,6 +30,7 @@ local Premium = {
     3449769878, -- [ PURCHASE METHOD: R | 731770993194041375 ]
     307868461, -- [  ]
     1911962771, -- Corrupt
+    3410453540, -- [ PURCHASE METHOD: GIVEAWAY | 904537707378774046 ]
 }
 
 local Cool = {
