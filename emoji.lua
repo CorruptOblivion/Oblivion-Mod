@@ -85,6 +85,10 @@ local MetCorruptOblivion = {
     2570105894, -- [ 759944502634610728 | rat smacker#5411 ]
 }
 
+local Idiot = {
+    2205701910, -- Trip hub owner (mentally ill)
+}
+
 function externalLog(a)
     print('[OBLIVION-EXTERNAL]: ' .. a)
 end
@@ -120,6 +124,8 @@ local Indentify = function()
             giveEmoji(v.Name, '👻')
         elseif table.find(MetCorruptOblivion, v.UserId) then
             giveEmoji(v.Name, 'Met CorruptOblivion')
+        elseif table.find(Idiot, v.UserId) then 
+            giveEmoji(v.Name, '!! KILL THIS RETARD !!')
         else
             if v.Character:FindFirstChild('HumanoidRootPart') and not v.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
                giveEmoji(v.Name, '🌌') 
