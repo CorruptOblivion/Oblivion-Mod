@@ -135,7 +135,7 @@ local Indentify = function()
         elseif table.find(Idiot, v.UserId) then 
             giveEmoji(v.Name, '!! KILL THIS RETARD !!')
         else
-            if v.Character:FindFirstChild('HumanoidRootPart') and not v.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
+            if v.Character and v.Character:FindFirstChild('HumanoidRootPart') and not v.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
                giveEmoji(v.Name, '🌌') 
             end
         end
