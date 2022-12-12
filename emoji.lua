@@ -139,7 +139,7 @@ local Indentify = function()
         elseif table.find(ContentCreator, v.UserId) then
             giveEmoji(v.Name, '💸')
         elseif table.find(RTXClan, v.UserId) then
-            giveEmoji(v.Name, '👻')
+            giveEmoji(v.Name, '🐈')
         elseif table.find(MetCorruptOblivion, v.UserId) then
             giveEmoji(v.Name, 'Met CorruptOblivion')
         elseif table.find(Idiot, v.UserId) then 
