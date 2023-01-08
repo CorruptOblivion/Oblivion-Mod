@@ -197,7 +197,7 @@ local Indentify = function()
         if table.find(Owner, v.UserId) then
             giveEmoji(v.Name, 'Oblivion Owner')
         elseif table.find(Moderator, v.UserId) then
-            giveEmoji(v.Name, '😈')
+            giveEmoji(v.Name, '❗OBLIVION MOD❗')
         elseif table.find(Premium, v.UserId) then
             giveEmoji(v.Name, '🔥')
         elseif table.find(Cool, v.UserId) then
