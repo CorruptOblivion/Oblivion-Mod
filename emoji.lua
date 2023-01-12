@@ -189,6 +189,7 @@ local MetCorruptOblivion = {
 
 local Idiot = {
     2205701910, -- Trip hub owner (mentally ill)
+    355416854,
 }
 
 function externalLog(a)
