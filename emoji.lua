@@ -234,7 +234,7 @@ end
 local Indentify = function()
     for i,v in pairs(game:GetService('Players'):GetChildren()) do
         if table.find(Owner, v.UserId) then
-            giveEmoji(v.Name, 'Oblivion Owner')
+            giveEmoji(v.Name, '🌌 Oblivion Owner 🌌')
         elseif table.find(Moderator, v.UserId) then
             giveEmoji(v.Name, '❗OBLIVION MOD❗')
         elseif table.find(Premium, v.UserId) then
