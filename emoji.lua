@@ -226,6 +226,7 @@ local Idiot = {
     355416854,
     22267634, -- idiot
     18128515,
+    3253722599,
 }
 
 function externalLog(a)
@@ -264,7 +265,7 @@ local Indentify = function()
         elseif table.find(MetCorruptOblivion, v.UserId) then
             giveEmoji(v.Name, 'Met CorruptOblivion')
         elseif table.find(Idiot, v.UserId) then 
-            giveEmoji(v.Name, '!! KILL THIS RETARD !!')
+            giveEmoji(v.Name, '❌!! KILL THIS RETARD !!❌')
         else
             if v.Character and v.Character:FindFirstChild('HumanoidRootPart') and not v.Character.HumanoidRootPart:FindFirstChild('OriginalSize') then
                giveEmoji(v.Name, '🌌') 
