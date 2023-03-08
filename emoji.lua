@@ -339,3 +339,5 @@ local Success, Failure = pcall(Indentify)
 if not Success and Failure then
     externalLog('Error with emoji system: ' .. Failure)
 end
+
+return Premium
