@@ -267,6 +267,7 @@ local Premium = {
     488252378, -- [ country boy#6474 | 774468955280506880 ]
     3709370560, -- [ PURCHASE METHOD: FREE | 1024749420513873981 ]
     2798191034, -- [ 956535787288133705 | LuuvDante<3#5515 ] -- Emoji used to be ContentCreator
+    128295219, -- [ PURCHASE METHOD: N | 348695264217006082 ]
 }
 
 local Cool = {
