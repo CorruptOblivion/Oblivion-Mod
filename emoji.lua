@@ -269,6 +269,7 @@ local Premium = {
     2798191034, -- [ 956535787288133705 | LuuvDante<3#5515 ] -- Emoji used to be ContentCreator
     128295219, -- [ PURCHASE METHOD: N | 348695264217006082 ]
     1018003222, -- [ PURCHASE METHOD: MM2 | 1054419698088951858 ]
+    2870277818, -- [ PURCHASE METHOD: FREE | ]
 }
 
 local Cool = {
