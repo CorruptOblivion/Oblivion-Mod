@@ -329,6 +329,7 @@ local Idiot = {
     438595138, -- Thinks hes tough LMFAO
     1553406717,
     3871654427,
+    476501871,
 }
 
 function externalLog(a)
