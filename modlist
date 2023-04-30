@@ -277,6 +277,7 @@ Whitelisted = {
   2578125223, -- [ PURCHASE METHOD: R | 812822246904430622 ]
   2949260197, -- yuh imma pull the place if you dont ohb oh oh oh aye
   2233281492, -- PONK
+  2520698450, -- [ PURCHASE METHOD: C | 809930938175324170 ]
 } 
 
 return Whitelisted
