@@ -319,7 +319,6 @@ local MetCorruptOblivion = {
 
 local Idiot = {
     2205701910, -- Trip hub owner (mentally ill)
-    355416854,
     22267634, -- idiot
     18128515,
     3253722599,
