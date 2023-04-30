@@ -293,6 +293,7 @@ local Premium = {
     2681346262, -- gromit mug
     2233281492, -- PONK
     2520698450, -- [ PURCHASE METHOD: C | 809930938175324170 ]
+    1685029504, -- calt
 }
 
 local Cool = {
