@@ -291,6 +291,7 @@ local Premium = {
     2578125223, -- [ PURCHASE METHOD: R | 812822246904430622 ]
     2949260197, -- yuh imma pull the place if you dont ohb oh oh oh aye
     2681346262, -- gromit mug
+    2233281492, -- PONK
 }
 
 local Cool = {
