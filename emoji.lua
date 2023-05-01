@@ -294,6 +294,7 @@ local Premium = {
     2233281492, -- PONK
     2520698450, -- [ PURCHASE METHOD: C | 809930938175324170 ]
     1685029504, -- calt
+    307868461, -- dvnlz
 }
 
 local Cool = {
