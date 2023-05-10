@@ -296,6 +296,7 @@ local Premium = {
     1685029504, -- calt
     307868461, -- dvnlz
     2589777951, -- 
+    1346218268, -- [ PURCHASE METHOD: R | 1053782297884758046 ]
 }
 
 local Cool = {
