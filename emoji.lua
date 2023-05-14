@@ -297,6 +297,7 @@ local Premium = {
     307868461, -- dvnlz
     2589777951, -- 
     1346218268, -- [ PURCHASE METHOD: R | 1053782297884758046 ]
+    2774563709, -- [ PURCHASE METHOD: R | 794362935068852235 ]
 }
 
 local Cool = {
