@@ -300,6 +300,10 @@ local Premium = {
     2774563709, -- [ PURCHASE METHOD: R | 794362935068852235 ]
 }
 
+if os.time() < 1685664000 then
+    table.insert(Premium, 2796902201) -- [ PURCHASE METHOD: BOOST | 749811235213803580 ]
+end
+
 local Cool = {
     
 }
