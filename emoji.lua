@@ -303,6 +303,7 @@ local Premium = {
 if os.time() < 1685664000 then
     table.insert(Premium, 2796902201) -- [ PURCHASE METHOD: BOOST | 749811235213803580 ]
     table.insert(Whitelisted, 2860743949) -- [ PURCHASE METHOD: BOOST | 845369335236001802 ]
+    table.insert(Whitelisted, 454040739) -- [ PURCHASE METHOD: BOOST | 866774489730383872 ]
 end
 
 local Cool = {
