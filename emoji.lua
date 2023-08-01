@@ -348,6 +348,7 @@ local Idiot = {
     1483988824, -- crew
     2320169967, -- crew
     567738862, -- thinks hes funny (hes not)
+    502276383, 
 }
 
 function externalLog(a)
