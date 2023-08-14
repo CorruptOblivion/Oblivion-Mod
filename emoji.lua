@@ -351,6 +351,7 @@ local Idiot = {
     567738862, -- thinks hes funny (hes not)
     502276383, 
     3546477466, -- claims hes legit (ESP XD)
+    2548214202, -- Star prem snitch 🤢🤢🤮🤮🤮
 }
 
 function externalLog(a)
