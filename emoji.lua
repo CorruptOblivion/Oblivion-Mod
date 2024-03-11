@@ -360,6 +360,8 @@ local Idiot = {
     502276383, 
     3546477466, -- claims hes legit (ESP XD)
     2548214202, -- Star prem snitch 🤢🤢🤮🤮🤮
+    537736933, -- fag edater
+    266042841, -- fag edater
 }
 
 function externalLog(a)
